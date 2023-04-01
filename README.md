@@ -12,4 +12,7 @@
 
 ### 실행 화면
 
-![실행 화면](picture.PNG)
+![실행 화면 1](picture1.png)
+![실행 화면 2](picture2.png)
+![실행 화면 3](picture3.png)
+
