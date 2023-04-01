@@ -4,10 +4,10 @@
 ### 프로그램 개발 환경
 - Language : Java
 - OS : Microsoft Windows 10
-- IDE : Eclipse 
+- IDE : Eclipse, IntelliJ IDEA
 
 ### 기능 설명
-- `Swing` 툴킷을 이용해서 간단하게 제작한 퍼즐 게임
+- `Swing` 컴포넌트를 이용해서 간단하게 제작한 퍼즐 게임
 - 3가지 종류의 퍼즐 게임을 할 수 있다.
 
 ### 실행 화면
